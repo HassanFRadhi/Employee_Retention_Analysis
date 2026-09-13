@@ -13,7 +13,7 @@ For this reason, the main business problem of this project was to identify the f
 
 ## Data Understanding
 The data used in this project contained information about Salifort Motors employees, including factors such as department, job title, number of projects, average monthly hours, satisfaction level, and other employee-related information.
-The dataset contained approximately 10 rows and 10 features.
+The dataset contained approximately 14,999 rows and 10 features.
 During the data preparation process, columns renamed, missing values and duplicates checked, and outliers were imputed.
 Some features were transformed to help improve the model and better represent factors that may influence employee turnover.
 
