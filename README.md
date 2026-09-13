@@ -35,10 +35,9 @@ These findings helped identify the main patterns associated with employees leavi
 
 ## Conclusion
 
-This project showed that **[main finding]** has an important relationship with employee turnover.
-
+This project showed that average monthly hours and number of projects has an important relationship with employee turnover.
 The model can help Salifort Motors identify employees who may be at higher risk of leaving and better understand the factors that contribute to turnover.
-
-Based on the results, the main recommendations for the company are **[recommendation 1]**, **[recommendation 2]**, and **[recommendation 3]**.
-
-In the future, **[future improvement, additional data, or another modeling approach]** could be used to improve the model and provide more useful insights for the company's employee retention strategy. 
+Based on the results, the main recommendations for the company are that the company modifies its policies in a way that minimize the effects mentioned in the above figure. And to seek for increasing fairness between different
+departments since some departments tend to have higher turnover rate than others.
+In the future, we can develop an XGBoost or Random Forest model to increase the relainess
+of the predictions. Further feature engineering could also be used to improve the model and provide more useful insights for the company's employee retention strategy. 
