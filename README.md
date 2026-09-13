@@ -28,7 +28,7 @@ The model achieved:
 - **Recall:** 83%
 - **F1-score:** 80%
 
-The results showed that **[feature 1]**, **[feature 2]**, and **[feature 3]** were the most important factors in predicting employee turnover. < br> <br>
+The results showed that department, salary, and promotions last 5 years were the most important factors in predicting employee turnover. <br> <br>
 <img width="869" height="837" alt="image" src="https://github.com/user-attachments/assets/2a8099d0-1292-4cd5-a018-6248b2bd81c4" />
 
 These findings helped identify the main patterns associated with employees leaving the company.
