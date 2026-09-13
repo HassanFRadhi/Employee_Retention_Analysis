@@ -2,9 +2,7 @@
 ## Overview
 
 The goal of this project was to analyze employee data and build a machine learning model to predict whether an employee would leave Salifort Motors. The project focused on identifying the factors that may be associated with employee turnover and using these findings to provide recommendations for improving employee retention.
-
 The final logistic regression model achieved 83% accuracy and 80% precision in predicting employee turnover.
-
 Based on the model, department, salary, and promotions last 5 years were the most important factors in predicting whether an employee would leave the company.
 
 ## Business Understanding
